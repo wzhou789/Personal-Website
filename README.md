@@ -1,2 +1,2 @@
 # Personal-Website
-Website created for blogging.
+Responsive website created for blogging about various strange birds.
